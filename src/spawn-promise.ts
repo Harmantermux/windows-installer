@@ -1,4 +1,4 @@
-import { spawn as spawnOg, SpawnOptionsWithoutStdio } from 'child_process';
+impot { spawn as spawnOg, SpawnOptionsWithoutStdio } from 'child_process';
 
 const d = require('debug')('electron-windows-installer:spawn');
 
